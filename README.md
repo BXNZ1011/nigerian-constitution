@@ -1,5 +1,13 @@
 # Nigerian Constitution
+## 🔍 Search Utility
 
+This repository now includes a Python script (`search.py`) that allows keyword-based searches across the Nigerian Constitution dataset.
+
+### Usage
+1. Ensure you have `constitution.json` in the root directory.
+2. Run the script:
+   ```bash
+   python search.py
 Arrangement of sections
 
 ## [Chapter I](./constitution/chapter-i.md)
